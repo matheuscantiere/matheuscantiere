@@ -43,22 +43,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="grafana logo"  />
 </div>
-
-##  GitHub Stats
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=matheuscantiere&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuscantiere&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
-<br/>
-
-##  Streak Stats
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=matheuscantiere&theme=tokyonight&hide_border=true" />
-</div>
-
-<br/>
-<br/>
-<br/>
